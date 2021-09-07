@@ -6,8 +6,12 @@ public class CalculatorExample {
 		
 		Calculator myCalc = new Calculator();
 		
-		myCalc.execute();
+	
+		System.out.println(myCalc.plus(1, 3));
+		System.out.println(myCalc.avg(4, 4));
 		
+		myCalc.execute();
+		myCalc.println("hello");
 	}/////main
 
 }/////////class
