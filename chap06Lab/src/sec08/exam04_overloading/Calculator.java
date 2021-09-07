@@ -7,7 +7,7 @@ public class Calculator {
 		return width * width;
 	}
 	
-	//직사각형의 넓이 
+	//직사각형의 넓이 dd
 	//method overloading(중복)
 	double areaRectangle(double width, double height) {
 		return width * height;
