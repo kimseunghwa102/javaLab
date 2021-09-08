@@ -11,7 +11,7 @@ public class CarExample {
 		
 		Car car4 = new Car("테슬라","검정",200);
 		System.out.println(car4.company + car4.color + car4.maxSpeed);
-	
+
 	}
 
 }

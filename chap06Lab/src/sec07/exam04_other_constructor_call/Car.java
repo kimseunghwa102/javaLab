@@ -32,6 +32,7 @@ public class Car {
 		this.maxSpeed = maxSpeed;
 	}
 	
+	
 	//3.메소드
 	
 }
