@@ -11,6 +11,7 @@ public class PersonExample {
 		System.out.println(p1.name);
 		
 		//p1.nation="usa"; //The final field person.nation cantt be assing 
+		
 		p1.name="을지문덕";
 		System.out.println(p1.name);
 	}
