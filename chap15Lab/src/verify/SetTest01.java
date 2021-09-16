@@ -11,12 +11,15 @@ public static void main(String[] args) {
 		// TreeSet s = new TreeSet();
 		Random r = new Random();
 		
-		for(int i=1; i<7;i++) {
-			if(i<46) {
+		while(s.size()<7) {
+			 {
 				System.out.print("["+(r.nextInt(45)+1)+"]");	
 				
 				}
+			 System.out.println(s);
+			 
 			}
+		
 		//...
 }
 }
